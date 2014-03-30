@@ -17,7 +17,9 @@ db_backup.php：导出Mysql的脚本。
 
 
 前提条件：
+
 1，VPS安装Python，这个一般没问题，VPS的虚拟化技术不能是OpenVZ。
+
 2，虚拟主机必须是php型的，且支持passthru()函数，中国大陆的主机一般都支持。
 
 
